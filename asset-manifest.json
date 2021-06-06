@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/template-deployment-test/static/css/main.4784f27f.chunk.css",
+    "main.js": "/template-deployment-test/static/js/main.13f2ef5c.chunk.js",
+    "main.js.map": "/template-deployment-test/static/js/main.13f2ef5c.chunk.js.map",
+    "runtime-main.js": "/template-deployment-test/static/js/runtime-main.dc84b3da.js",
+    "runtime-main.js.map": "/template-deployment-test/static/js/runtime-main.dc84b3da.js.map",
+    "static/css/2.adbe346d.chunk.css": "/template-deployment-test/static/css/2.adbe346d.chunk.css",
+    "static/js/2.75548ff0.chunk.js": "/template-deployment-test/static/js/2.75548ff0.chunk.js",
+    "static/js/2.75548ff0.chunk.js.map": "/template-deployment-test/static/js/2.75548ff0.chunk.js.map",
+    "static/js/3.8ca136b2.chunk.js": "/template-deployment-test/static/js/3.8ca136b2.chunk.js",
+    "static/js/3.8ca136b2.chunk.js.map": "/template-deployment-test/static/js/3.8ca136b2.chunk.js.map",
+    "static/js/4.4858464b.chunk.js": "/template-deployment-test/static/js/4.4858464b.chunk.js",
+    "static/js/4.4858464b.chunk.js.map": "/template-deployment-test/static/js/4.4858464b.chunk.js.map",
+    "static/js/5.f33e97cb.chunk.js": "/template-deployment-test/static/js/5.f33e97cb.chunk.js",
+    "static/js/5.f33e97cb.chunk.js.map": "/template-deployment-test/static/js/5.f33e97cb.chunk.js.map",
+    "static/js/6.32a96350.chunk.js": "/template-deployment-test/static/js/6.32a96350.chunk.js",
+    "static/js/6.32a96350.chunk.js.map": "/template-deployment-test/static/js/6.32a96350.chunk.js.map",
+    "index.html": "/template-deployment-test/index.html",
+    "static/css/2.adbe346d.chunk.css.map": "/template-deployment-test/static/css/2.adbe346d.chunk.css.map",
+    "static/css/main.4784f27f.chunk.css.map": "/template-deployment-test/static/css/main.4784f27f.chunk.css.map",
+    "static/js/2.75548ff0.chunk.js.LICENSE.txt": "/template-deployment-test/static/js/2.75548ff0.chunk.js.LICENSE.txt",
+    "static/media/aws-logo.f73ad594.jpg": "/template-deployment-test/static/media/aws-logo.f73ad594.jpg",
+    "static/media/bg.a87553be.jpg": "/template-deployment-test/static/media/bg.a87553be.jpg",
+    "static/media/browser.25470945.svg": "/template-deployment-test/static/media/browser.25470945.svg",
+    "static/media/google-clone.e3381522.png": "/template-deployment-test/static/media/google-clone.e3381522.png",
+    "static/media/netflix-clone.d69dfb0f.png": "/template-deployment-test/static/media/netflix-clone.d69dfb0f.png",
+    "static/media/performance.01621b8f.svg": "/template-deployment-test/static/media/performance.01621b8f.svg",
+    "static/media/responsive-design.db42e6df.svg": "/template-deployment-test/static/media/responsive-design.db42e6df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc84b3da.js",
+    "static/css/2.adbe346d.chunk.css",
+    "static/js/2.75548ff0.chunk.js",
+    "static/css/main.4784f27f.chunk.css",
+    "static/js/main.13f2ef5c.chunk.js"
+  ]
+}
